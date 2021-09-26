@@ -1,2 +1,3 @@
-# 1proect
-....
+# 1проект
+name=input()
+print ("Здраствуйте," +name)
